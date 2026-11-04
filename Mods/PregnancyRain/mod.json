@@ -1,0 +1,8 @@
+{
+  "name": "Lluvia de Embarazo",
+  "author": "WorldBox Mod",
+  "version": "1.2.1",
+  "description": "Habilidad exclusiva del jugador que usa las gotas, físicas, sonidos y pincel de la lluvia original de WorldBox; cuando una gota cae cerca de criaturas adultas causa embarazo mágico.",
+  "targetGameBuild": 719,
+  "GUID": "PregnancyRain.MagicRain"
+}
