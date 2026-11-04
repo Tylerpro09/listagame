@@ -1,0 +1,8 @@
+{
+  "name": "Reloj de Arena Infinito",
+  "author": "WorldBox Mod",
+  "version": "1.4.0",
+  "description": "Amplia el reloj de arena de WorldBox x5 -> x6 -> x7 -> x8 ... sin una lista fija. Muestra la velocidad real y se protege ante FPS bajos.",
+  "targetGameBuild": 719,
+  "GUID": "HourglassInfinity.ExtendedClock"
+}
