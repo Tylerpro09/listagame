@@ -1,0 +1,8 @@
+{
+  "name": "Muro de Luz Infranqueable + Reino Aislado",
+  "author": "WorldBox Mod",
+  "version": "1.1.0",
+  "description": "El Muro de Luz original impide cruzar y protege el recinto. Nuevo Reino Aislado: si un rey con toda su ciudad y residentes está encerrado de forma estable, su ciudad se independiza usando las funciones nativas de WorldBox; el antiguo reino exterior elige un nuevo rey.",
+  "targetGameBuild": 719,
+  "GUID": "LightWallFortress.NML1201"
+}
