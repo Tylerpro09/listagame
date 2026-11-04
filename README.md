@@ -1,20 +1,26 @@
-# listagame — Mods para WorldBox
+# Lista de juegos y mods
 
-Repositorio de **modificaciones** y código fuente para WorldBox. **El juego original no está incluido.**
+Repositorio en español de proyectos y modificaciones de videojuegos.
 
-## Contenido
-- `Mods/EternalImmortal/`: inmortalidad, fusión y poder de imán de inmortales.
-- `Mods/LightWallFortress/`: modificaciones del muro de luz y aislamiento de reinos.
+## Mods propios para WorldBox
 
-## Requisitos e instalación
-1. Obtén e instala una copia legítima de WorldBox.
-2. Comprueba la compatibilidad de cada mod con tu versión del juego y NeoModLoader.
-3. Copia los archivos del mod en `Worldbox/Mods/<NombreDelMod>/`.
-4. Consulta el `README.txt` del mod y haz copia de seguridad de tus partidas antes de probar.
+| Carpeta | Descripción | Publicado |
+|---|---|---|
+| `Mods/EternalImmortal/` | Inmortalidad y fusión de personajes; imán de inmortales. | Código fuente y configuración |
+| `Mods/LightWallFortress/` | Muro de luz reforzado y reinos aislados. | Código fuente y configuración |
+| `Mods/WorldBoxUnlockAll/` | Desbloqueos de progreso local, sin modificar licencias prémium ni logros de Steam. | Código fuente y configuración |
+| `Mods/PregnancyRain/` | Poder de lluvia de embarazo; archivos de localización en español e inglés. | Configuración, documentación y traducciones |
+| `Mods/HourglassInfinity/` | Velocidades extendidas del reloj de arena (+/-). | Configuración y documentación |
 
-**Compatibilidad indicada en los archivos originales:** WorldBox 0.51.2 (build 719) y NeoModLoader 1.2.0.1, sujeto a pruebas.
+## Instalación
 
-## Importante
-Los ejecutables, bibliotecas de Unity, archivos de datos, recursos y demás contenido del juego comercial no se redistribuyen aquí. Este repositorio no es oficial ni está afiliado a los desarrolladores de WorldBox.
+1. Instala WorldBox desde una fuente autorizada.
+2. Comprueba que los mods correspondan a tu versión del juego (la documentación menciona WorldBox 0.51.2, build 719, y NeoModLoader 1.2.0.1).
+3. Realiza una copia de seguridad de tus partidas.
+4. Consulta el archivo `README.txt` de cada mod. Los mods con solo documentación y configuración necesitan el ensamblado compilado por separado.
 
-El código de los mods se ofrece para revisión y desarrollo; **no se concede una licencia de reutilización adicional** hasta que el titular establezca una licencia explícita.
+## Avisos
+
+El juego original **no se encuentra en este repositorio**. No se redistribuyen los ejecutables, recursos ni bibliotecas propietarias de WorldBox. Proyecto no oficial y sin afiliación con sus desarrolladores.
+
+Los mods no cuentan con garantía de compatibilidad ni funcionamiento. Para reutilizar su código debe comprobarse la licencia o permiso correspondiente.
