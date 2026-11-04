@@ -1,0 +1,8 @@
+{
+  "name": "Desbloquear Todo",
+  "author": "WorldBox Mod",
+  "version": "1.0.0",
+  "description": "Desbloquea todos los logros LOCALES y descubrimientos de WorldBox, rasgos, criaturas, genes, equipos y tramas con el sistema de progreso nativo. Muestra los rasgos en el editor. No modifica compras premium ni logros de Steam.",
+  "targetGameBuild": 719,
+  "GUID": "WorldBoxUnlockAll.NML1201"
+}
